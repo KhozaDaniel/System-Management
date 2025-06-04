@@ -41,3 +41,25 @@
     display: none;
   }
 }
+
+@media (max-width: 390px) {
+  
+  .navbar{
+    font-size: 10px;
+    padding: 10px;
+    margin: 0;
+  }
+
+  .navbar .navbar-brand{
+    color: #fff;
+    font-size: 12px;
+  }
+
+  .navbar .nav-link{
+    margin-right: 12px;
+  }
+
+  .navbar {
+    display: none;
+  }
+}
