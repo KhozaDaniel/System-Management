@@ -89,18 +89,18 @@
 @media (max-width: 250px) {
   
   .navbar{
-    font-size: 8px;
+    font-size: 5px;
     padding: 10px;
     margin: 0;
   }
 
   .navbar .navbar-brand{
     color: #fff;
-    font-size: 10px;
+    font-size: 8px;
   }
 
   .navbar .nav-link{
-    margin-right: 10px;
+    margin-right: 8px;
   }
 
   .navbar {
