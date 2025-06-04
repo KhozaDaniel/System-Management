@@ -107,10 +107,10 @@
     display: none;
   }
 }
-@media (max-width: 250px) {
+@media (max-width: 200px) {
   
   .navbar{
-    font-size: 8px;
+    font-size: 6px;
     padding: 10px;
     margin: 0;
   }
